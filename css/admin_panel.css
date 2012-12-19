@@ -1,0 +1,33 @@
+/* 
+    Document   : demo
+    Created on : Dec 13, 2012, 10:25:58 AM
+    Author     : Renu
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.labels{
+   float: left;
+   width:100px;
+}
+#options_left_1 {
+    display:none;
+}
+#options_left_2 {
+    display:none;
+}
+#options_left_3 {
+    display:none;
+}
+.align{
+    margin: 10px;
+}
+#intro{
+    margin:10px; 
+    padding:10px; 
+    font-family:Courier New, Courier, monospace; 
+    font-size:16px ;
+}
+.error{
+    color:red;
+}

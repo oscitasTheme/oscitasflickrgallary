@@ -1,0 +1,43 @@
+/* 
+    Document   : osCitas flickr_gallery
+    Created on : Dec 13, 2012, 9:53:13 AM
+    Author     : osCitas Themes
+    Description: To set css of front end.
+        
+*/
+
+.fancybox-custom .fancybox-skin {
+    box-shadow: 0 0 50px #222;
+}
+
+#flickrImages a{ display:inline-block; }
+
+#flickrImages img { margin:5px 5px 0 0; border:1px solid #C6C6C6;padding:3px; }
+
+#flickrImages .navbutton {
+    border: 1px solid #CDCDCD;
+    background: #E3E3E3;
+    color: #000;
+    font-size: 12px;
+    padding: 2px 4px;
+    margin: 0px 2px 0px 2px;
+	cursor:pointer;
+}
+
+.holder select{
+    background: transparent;
+    width: 60px;
+    padding: 5px;
+    font-size: 11px;
+    border: 1px solid #ccc;
+}
+
+/* CSS for active button*/
+.holder #currentnav{
+    color:#fff;
+	background:#55A2A0;
+	border:1px solid #388281;
+}
+.error{
+    color:red;
+}
